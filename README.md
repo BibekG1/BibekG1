@@ -29,9 +29,9 @@ Quiet nights, loud mind. Writing scripts and tools to optimize systems, fix bott
 
 
 <p align="center">
-  <img width="48%" alt="Banner 1" src="https://github.com/user-attachments/assets/c08bfd05-e22a-465c-b08a-03165dd194f7" />
+  <img width="48%" alt="compressed-1787626233127" src="https://github.com/user-attachments/assets/710cab6c-ceac-433e-8f4a-54aa8921349b" />
   &nbsp;
-  <img width="48%" alt="Banner 2" src="https://github.com/user-attachments/assets/1a7af184-c529-4a9b-b3c9-9dffa80d154e" />
+  <img width="48%" alt="compressed-1787626292503" src="https://github.com/user-attachments/assets/9d219739-eaef-4d21-a3bc-372c081841ed" />
 </p>
 
 
@@ -44,11 +44,12 @@ Quiet nights, loud mind. Writing scripts and tools to optimize systems, fix bott
 <table>
   <tr>
     <td width="35%" align="center" valign="top">
-      <img width="260" alt="GIF" src="https://github.com/user-attachments/assets/636f5d47-6b83-422f-b961-0a2fd8d2ff56" />
+      <img width="260" alt="compressed-1787626607744" src="https://github.com/user-attachments/assets/9cf00b51-bb48-42f2-b52a-2f7e2f1ea598" />
     </td>
     <td width="65%" valign="top">
 
-### Hi, I'm Bibek 👋
+<h2>What are you Looking at haan..?? <img align="center" width="60" height="60" alt="giphy" src="https://github.com/user-attachments/assets/4286f71c-5e16-48e6-861e-17f0a439a99a" /></h2>
+
 
 `building tools to solve problems in silence`
 
@@ -70,10 +71,15 @@ Quiet nights, loud mind. Writing scripts and tools to optimize systems, fix bott
 
 
 <p align="center">
-  <img width="32%" alt="GIF 1" src="https://github.com/user-attachments/assets/88dabce6-bc9c-4f34-b5a8-2f886f9f8a25" />
-  <img width="32%" alt="GIF 2" src="https://github.com/user-attachments/assets/2782373e-2082-44d9-ad4a-2c4bc0706108" />
-  <img width="32%" alt="GIF 3" src="https://github.com/user-attachments/assets/a4b276de-a5b1-4989-afb2-8639ec75f0f5" />
+  <img width="32%" alt="compressed-1787626496695" src="https://github.com/user-attachments/assets/5a9619dc-cd96-4af6-8f9e-99ddb708e589" />
+  <img width="32%" alt="compressed-1787626404338" src="https://github.com/user-attachments/assets/4ad4b7c4-c966-4a3e-9b6a-be3d4c443341" />
+  <img width="32%" alt="compressed-1787626359405" src="https://github.com/user-attachments/assets/e562a406-012f-49e4-a795-f3ab1179a402" />
 </p>
+
+
+
+
+
 
 
 
