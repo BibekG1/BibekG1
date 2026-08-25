@@ -1,3 +1,4 @@
+
 ## Hi there 👋
 
 <!--
@@ -29,8 +30,8 @@ Here are some ideas to get you started:
 Quiet nights, loud mind. Writing scripts and tools to optimize systems, fix bottlenecks, and build things that actually work.
 
 <div align="center">
-  <img src="https://v1.pinimg.com/videos/iht/expMp4/db/1e/cc/db1ecc93376925af174df4e3218805bf_720w.mp4" width="100%" alt="Live Banner" />
-</div>
+  <img width="736" height="414" alt="ezgif-1f18642b2ff8a088" src="https://github.com/user-attachments/assets/9d2fa1ad-259f-441e-8aed-3308d596a7d7" width="100%" alt="Live Banner" />
+
 
 
 
