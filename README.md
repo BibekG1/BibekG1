@@ -63,22 +63,31 @@ Trying to make sense of a world that rarely makes any.  Life is hard, days are l
 
 <h2>What are you Looking at haan..?? <img align="center" width="60" height="60" alt="giphy" src="https://github.com/user-attachments/assets/4286f71c-5e16-48e6-861e-17f0a439a99a" /></h2>
 
-
-`building tools to solve problems in silence`
-
-Quiet nights, loud mind. Writing scripts and tools to optimize systems, fix bottlenecks, and build things that actually work.
-
-- 🛠️ **Current Focus:** Windows Performance Optimization, Automation & System Tuning.
-- ⚡ **Key Projects:**
-  - [SmartGpuPref](https://github.com/BibekG1/SmartGpuPref) — Automatic Windows GPU preference tuner.
-  - [SmartDiskThrottle](https://github.com/BibekG1/SmartDiskThrottle) — Adaptive I/O throttling & efficiency daemon.
-  - [ProcessLasso-Defender-Optimizer](https://github.com/BibekG1/ProcessLasso-Defender-Optimizer) — CPU micro-stutter fix & Defender optimizer.
+---
+ 🛠️ **Current Focus:** Random Shits and Windows Performance Optimization, Automation & System Tuning.
+ ---
+ 
+### ⚡ Public Repositories
+- 🚀 **[ProcessLasso-Defender-Optimizer](https://github.com/BibekG1/ProcessLasso-Defender-Optimizer)**  
+ `High-efficiency guide & toolkit to optimize CPU performance, eliminate micro-stutters, and tame Windows Defender background usage.`
+- 🏎️ **[SmartGpuPref](https://github.com/BibekG1/SmartGpuPref)**  
+  `Automated tool to scan apps and auto-configure Windows High Performance GPU preferences.`
+- 💾 **[SmartDiskThrottle](https://github.com/BibekG1/SmartDiskThrottle)**  
+  `Adaptive background I/O throttling tool to prevent 100% disk usage and system freezes.`
+- 🎬 **[Intel-iGPU-Hardware-Acceleration-QuickSync](https://github.com/BibekG1/Intel-iGPU-Hardware-Acceleration-QuickSync)**  
+  `Guide & toolkit to unlock Intel QuickSync hardware acceleration on integrated GPUs and speed up video exports. And speedup your PC along with it.`
+- 🤖 **[Huggingface-Mine](https://github.com/BibekG1/Huggingface-Mine)**  
+  `Automated workflow to keep HuggingFace Spaces awake 24/7.`
 
 ```text
-> system.get_status()
--> [ERROR] Energy: Critical
--> [WARN]  Motivation: Low
--> [INFO]  Still pushing forward anyway.
+### 🔒 Private Repos (100% Working for educational purpose only).
+ (But cant make it public due to the TOS)
+- ⚡ **IDM Activation & Popup Suppressor**  
+  • Clean, automated IDM activation and silent popup suppressor.
+- 🛡️ **Windows & Office Activation**  
+ • Automated activation tool for Windows and Office environments.
+- 📡 **Telegram Proxy & Catalog**  
+  • Dedicated Telegram proxy bridge and custom media catalog system.
 ```
 </table>
 
