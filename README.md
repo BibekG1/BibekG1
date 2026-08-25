@@ -40,11 +40,11 @@ Trying to make sense of a world that rarely makes any.  Life is hard, days are l
 -> [INFO]  Still pushing forward anyway.
 ```
 <br></br>
-<p align="center">
-  <img width="48%" alt="compressed-1787626233127" src="https://github.com/user-attachments/assets/710cab6c-ceac-433e-8f4a-54aa8921349b" />
-  &nbsp;
-  <img width="48%" alt="compressed-1787626292503" src="https://github.com/user-attachments/assets/9d219739-eaef-4d21-a3bc-372c081841ed" />
-</p>
+
+
+<div align="center">
+<img width="800" height="225" alt="compressed-1787632657957" src="https://github.com/user-attachments/assets/e4354038-154a-49e5-8def-77ebea1720e5" />
+</div>
 
 
 
