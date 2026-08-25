@@ -50,35 +50,39 @@ Trying to make sense of a world that rarely makes any.  Life is hard, days are l
 
 
 <br></br>
-<br></br>
 
 
 
 <table>
   <tr>
-    <td width="35%" align="center" valign="center">
-      <img width="260" alt="compressed-1787626607744" src="https://github.com/user-attachments/assets/9cf00b51-bb48-42f2-b52a-2f7e2f1ea598" />
+    <td width="38%" align="center" valign="center">
+      <img width="330" alt="compressed-1787626607744" src="https://github.com/user-attachments/assets/9cf00b51-bb48-42f2-b52a-2f7e2f1ea598" />
     </td>
-    <td width="65%" valign="top">
+    <td width="62%" valign="top">
 
 <h2>What are you Looking at haan..?? <img align="center" width="60" height="60" alt="giphy" src="https://github.com/user-attachments/assets/4286f71c-5e16-48e6-861e-17f0a439a99a" /></h2>
 
 ---
- 🛠️ **Current Focus:** Random Shits and Windows Performance Optimization, Automation & System Tuning.
- ---
+ <h5>🛠️ Current Focus: Random Shits and Windows Performance Optimization, Automation & System Tuning.</h5>
+---
  
 ### ⚡ Public Repositories
-- 🚀 **[ProcessLasso-Defender-Optimizer](https://github.com/BibekG1/ProcessLasso-Defender-Optimizer)**  
- `High-efficiency guide & toolkit to optimize CPU performance, eliminate micro-stutters, and tame Windows Defender background usage.`
+- 🚀 **[ProcessLasso-Defender-Optimizer](https://github.com/BibekG1/ProcessLasso-Defender-Optimizer)**
+  <small>`High-efficiency guide & toolkit to optimize CPU performance, eliminate micro-stutters, and tame Windows Defender background usage.`</small>
 - 🏎️ **[SmartGpuPref](https://github.com/BibekG1/SmartGpuPref)**  
-  `Automated tool to scan apps and auto-configure Windows High Performance GPU preferences.`
+  <small>`Automated tool to scan apps and auto-configure Windows High Performance GPU preferences.`</small>
 - 💾 **[SmartDiskThrottle](https://github.com/BibekG1/SmartDiskThrottle)**  
-  `Adaptive background I/O throttling tool to prevent 100% disk usage and system freezes.`
+  <small>`Adaptive background I/O throttling tool to prevent 100% disk usage and system freezes.`</small>
 - 🎬 **[Intel-iGPU-Hardware-Acceleration-QuickSync](https://github.com/BibekG1/Intel-iGPU-Hardware-Acceleration-QuickSync)**  
-  `Guide & toolkit to unlock Intel QuickSync hardware acceleration on integrated GPUs and speed up video exports. And speedup your PC along with it.`
+  <small>`Guide & toolkit to unlock Intel QuickSync hardware acceleration on integrated GPUs and speed up video exports. And speedup your PC along with it.`</small>
 - 🤖 **[Huggingface-Mine](https://github.com/BibekG1/Huggingface-Mine)**  
-  `Automated workflow to keep HuggingFace Spaces awake 24/7.`
+ <small> `Automated workflow to keep HuggingFace Spaces awake 24/7.`</small>
 
+<br>
+
+<details>
+  <summary><b>🔒 Click to View Private Repos (100% Working / TOS Restricted)</b></summary>
+  
 ```text
 ### 🔒 Private Repos (100% Working for educational purpose only).
  (But cant make it public due to the TOS)
@@ -89,8 +93,10 @@ Trying to make sense of a world that rarely makes any.  Life is hard, days are l
 - 📡 **Telegram Proxy & Catalog**  
   • Dedicated Telegram proxy bridge and custom media catalog system.
 ```
+</details>
 </table>
 
+<br></br>
 
 <p align="center">
   <img width="32%" alt="compressed-1787626496695" src="https://github.com/user-attachments/assets/5a9619dc-cd96-4af6-8f9e-99ddb708e589" />
