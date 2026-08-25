@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 Quiet nights, loud mind. Writing scripts and tools to optimize systems, fix bottlenecks, and build things that actually work.
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/db/1e/cc/db1ecc93376925af174df4e3218805bf.gif" width="100%" alt="Live Banner" />
+  <img src="https://i.pinimg.com/originals/db/1e/cc/db1ecc93376925af174df4e3218805bf.mp4" width="100%" alt="Live Banner" />
 </div>
 
 
