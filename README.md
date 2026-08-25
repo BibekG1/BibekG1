@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 Quiet nights, loud mind. Writing scripts and tools to optimize systems, fix bottlenecks, and build things that actually work.
 
 <div align="center">
-  <img width="736" height="414" alt="ezgif-1f18642b2ff8a088" src="https://github.com/user-attachments/assets/9d2fa1ad-259f-441e-8aed-3308d596a7d7"  alt="Live Banner" />
+  <img width="736" height="414" alt="ezgif-1f18642b2ff8a088" src="https://github.com/user-attachments/assets/9d2fa1ad-259f-441e-8aed-3308d596a7d7" alt="Live Banner" />
 
 
 
