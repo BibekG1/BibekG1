@@ -75,9 +75,11 @@ Trying to make sense of a world that rarely makes any.  Life is hard, days are l
   <small>`Adaptive background I/O throttling tool to prevent 100% disk usage and system freezes.`</small>
 - 🎬 **[Intel-iGPU-Hardware-Acceleration-QuickSync](https://github.com/BibekG1/Intel-iGPU-Hardware-Acceleration-QuickSync)**  
   <small>`Guide & toolkit to unlock Intel QuickSync hardware acceleration on integrated GPUs and speed up video exports. And speedup your PC along with it.`</small>
-- 🤖 **[Huggingface-Mine](https://github.com/BibekG1/Huggingface-Mine)**  
+- 🤖 **[Huggingface-Alive](https://github.com/BibekG1/Huggingface-Mine)**  
  <small> `Automated workflow to keep HuggingFace Spaces awake 24/7.`</small>
-
+- 🫟 **[SMSBridge](https://github.com/BibekG1/SMSBridge)**
+  <small> `Two-app Android system to bridge SMS/OTP from main profile to work profile`</small>
+  
 <br>
 
 <details>
